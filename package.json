@@ -21,7 +21,7 @@
     "@types/jest": "^27.0",
     "@types/luxon": "^2.0",
     "@types/node": "^16.7",
-    "canvas": "^2.8",
+    "canvas": "^3",
     "chokidar": "^3.5",
     "commander": "^8.1",
     "dotenv": "^10",
